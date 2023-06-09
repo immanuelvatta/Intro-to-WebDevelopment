@@ -1,0 +1,10 @@
+data structure is intended to store more than one piece of information
+
+array is a collection of strings or numbers.
+array lets you store items together since they're related.
+
+
+
+    var usersFirstName = "Dwight";
+    var usersLastName = "Schrute";
+    var usersEmail = "beetsbears@battlestar.com";
